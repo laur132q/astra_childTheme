@@ -1,7 +1,28 @@
 /* 
 Theme Name:    astra_childTheme
 Template:    astra
-Version:      1.0.0
+Version:      1.0.3
 Description:  astra child theme
 Author:      Gruppe 5
 */
+
+
+/* #flaske{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+    margin: 2rem;
+} */
+
+
+/* på main delen, den har id'et #main */
+
+/* element.style {
+    display: flex;
+} */
+
+
+/* Alle filter knapper  */
+
+
+/* style="display: grid;grid-template-columns: repeat(4, 1fr);" */
