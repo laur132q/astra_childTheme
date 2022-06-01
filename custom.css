@@ -51,13 +51,13 @@ element.style:hover {
 }
 
 /* ----------------- RETTELESER DER ER SKET I WP----------- */
-#forside_styling #secondary {
+/* #forside_styling #secondary {
   display: none;
 }
 
 #forside_styling #primary {
   width: 100%;
-}
+} */
 
 .ast-container,
 .ast-container-fluid {
