@@ -40,7 +40,8 @@ element.style:hover {
 
 #den_skal_være_i_midten {
     display: flex;
-    align-content: center;
+  
+    justify-content: center;
 }
 
 
