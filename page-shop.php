@@ -7,9 +7,12 @@ get_header();
 ?>
 	<div id="primary" class="content-area">
 		<main id="shop_main" class="site-main">
-<nav id="filter">
+
+<div id="mobil-filter-knap">
+		<nav id="filter">
 	<button data-flaske="alle">Alle</button>
 </nav>
+</div>
 
 <button id="mobil_filtering">hej med dig</button>
 
