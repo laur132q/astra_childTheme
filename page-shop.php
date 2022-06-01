@@ -11,8 +11,8 @@ get_header();
 
      <button id="mobil-filter-knap" >
 		 Filter
-		 <nav id="filter" >
-	       <button data-flaske="alle" class="vis_ikke">Alle</button>
+		 <nav id="filter" class="vis_ikke" >
+	       <button data-flaske="alle" >Alle</button>
         </nav>
 </button>
 
