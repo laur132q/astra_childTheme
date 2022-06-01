@@ -8,7 +8,7 @@ get_header();
 ?>
 
 	<div id="primary" class="content-area">
-		<main id="main" class="site-main">
+		<main id="singleview_main" class="site-main">
 
 
       <article id="singleView-slik">
