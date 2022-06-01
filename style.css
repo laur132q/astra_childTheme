@@ -22,7 +22,3 @@ Author:      Gruppe 5
 /* Alle filter knapper  */
 
 /* style="display: grid;grid-template-columns: repeat(4, 1fr);" */
-.ast-container,
-.ast-container-fluid {
-  padding: 0%;
-}

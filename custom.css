@@ -39,6 +39,16 @@ element.style:hover {
 .ast-separate-container .ast-article-post, .ast-separate-container .ast-article-single {
     padding: 0%;
 }
+
+.entry-content[ast-blocks-layout] {
+    max-width: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.entry-content .wp-block-columns {
+    
+}
 /* -----------skal ske med media------------
 #shop_main {
   display: flex;
