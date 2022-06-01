@@ -5,32 +5,32 @@
 
 get_header();
 ?>
-	<div id="primary" class="content-area">
-		<main id="shop_main" class="site-main">
+<div id="primary" class="content-area">
 
-<div id="mobil-filter-knap">
-		<nav id="filter">
-	<button data-flaske="alle">Alle</button>
-</nav>
-</div>
+ <main id="shop_main" class="site-main">
 
-<button id="mobil_filtering">hej med dig</button>
+     <div id="mobil-filter-knap" >
+		 <nav id="filter">
+	       <button data-flaske="alle">Alle</button>
+        </nav>
+   </div>
 
-<section id="flaske" ></section>
+        <button id="mobil_filtering">hej med dig</button>
+
+     <section id="flaske" ></section>
 </main><!-- #main -->
-<template>
-	<article id="test1">
-		<img src="" alt=""> 
-		<h3></h3>
-		<p class="navn"></p>
+  <template>
+	 <article id="test1">
+		 <img src="" alt=""> 
+		 <h3></h3>
+		 <p class="navn"></p>
 		<!-- <p class="pris"></p> -->
 		<!-- <p class="oprindelse"></p> -->
-	</article>
-</template>
+	 </article>
+  </template>
+</div>
 
-<!--  -->
 
-</div><!-- #div -->
 <script>
 	console.log("mit_script_loader");
 	let flasker = [];
