@@ -1,41 +1,25 @@
-#flaske{
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 1rem;
-    margin: 2rem;
+#flaske {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin: 2rem;
 }
 
-
 element.style {
-    color: #DC7436;
+  color: #dc7436;
 }
 
 element.style:hover {
-        text-decoration: underline;
-    
+  text-decoration: underline;
 }
 
-
 #test1 {
-    border: solid;
-    border-width: 1px;
-    border-color: #ADB9AE;
-    padding: 1rem;
-    }
-    
+  border: solid;
+  border-width: 1px;
+  border-color: #adb9ae;
+  padding: 1rem;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#main {
+  display: flex;
+}
