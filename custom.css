@@ -20,6 +20,10 @@ element.style:hover {
   padding: 1rem;
 }
 
+#forside_styling #secondary {
+  display: none;
+}
+
 /* -----------skal ske med media------------
 #shop_main {
   display: flex;
