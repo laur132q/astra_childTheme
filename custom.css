@@ -33,6 +33,12 @@ element.style:hover {
   padding-left: 0%;
   padding-right: 0%;
 }
+
+
+
+.ast-separate-container .ast-article-post, .ast-separate-container .ast-article-single {
+    padding: 0%;
+}
 /* -----------skal ske med media------------
 #shop_main {
   display: flex;
