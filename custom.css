@@ -20,6 +20,11 @@ element.style:hover {
   padding: 1rem;
 }
 
+/* -----------skal ske med media------------
 #shop_main {
   display: flex;
 }
+
+#filter {
+  display: grid;
+} */
