@@ -28,6 +28,9 @@ element.style:hover {
   width: 100%;
 }
 
+.ast-container {
+  margin: 0%;
+}
 /* -----------skal ske med media------------
 #shop_main {
   display: flex;
