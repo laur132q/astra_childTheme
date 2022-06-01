@@ -6,7 +6,6 @@ Description:  astra child theme
 Author:      Gruppe 5
 */
 
-
 /* #flaske{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -14,15 +13,16 @@ Author:      Gruppe 5
     margin: 2rem;
 } */
 
-
 /* på main delen, den har id'et #main */
 
 /* element.style {
     display: flex;
 } */
 
-
 /* Alle filter knapper  */
 
-
 /* style="display: grid;grid-template-columns: repeat(4, 1fr);" */
+.ast-container,
+.ast-container-fluid {
+  padding: 0%;
+}
