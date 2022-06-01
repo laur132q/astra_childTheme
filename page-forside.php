@@ -19,6 +19,8 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 get_header(); ?>
 
+<div id="forside_styling">
+
 <?php if ( astra_page_layout() == 'left-sidebar' ) : ?>
 
 	<?php get_sidebar(); ?>
@@ -40,5 +42,6 @@ get_header(); ?>
 	<?php get_sidebar(); ?>
 
 <?php endif ?>
+</div>
 
 <?php get_footer(); ?>
