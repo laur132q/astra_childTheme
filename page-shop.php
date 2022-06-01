@@ -10,9 +10,9 @@ get_header();
  <main id="shop_main" class="site-main">
 
      <button id="mobil-filter-knap" >
-		 
-		 <nav id="filter" class="vis_ikke">
-	       <button data-flaske="alle">Alle</button>
+		 Filter
+		 <nav id="filter" >
+	       <button data-flaske="alle" class="vis_ikke">Alle</button>
         </nav>
 </button>
 
