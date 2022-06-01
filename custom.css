@@ -45,9 +45,9 @@ element.style:hover {
 } */
 
 .entry-content .wp-block-columns {
-    max-width: 0%;
+    /* max-width: 0%;
     margin-left: 0%;
-    margin-right: 0%;
+    margin-right: 0%; */
 }
 /* -----------skal ske med media------------
 #shop_main {
