@@ -49,6 +49,10 @@ element.style:hover {
   justify-content: center;
 }
 
+#filter {
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+}
 /* ----------------- RETTELESER DER ER SKET I WP----------- */
 /* #forside_styling #secondary {
   display: none;
