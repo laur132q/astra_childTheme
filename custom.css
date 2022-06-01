@@ -20,6 +20,14 @@ element.style:hover {
   padding: 1rem;
 }
 
+#forside_styling #secondary {
+  display: none;
+}
+
+#forside_styling #primary {
+  width: 100%;
+}
+
 /* -----------skal ske med media------------
 #shop_main {
   display: flex;
@@ -30,4 +38,7 @@ element.style:hover {
 } */
 
 .post-thumb-img-content {
+}
+#secondary {
+  display: none;
 }
