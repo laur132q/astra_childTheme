@@ -11,6 +11,7 @@ get_header();
 	<button data-flaske="alle">Alle</button>
 </nav>
 
+<button id="mobil_filtering">hej med dig</button>
 
 <section id="flaske" ></section>
 </main><!-- #main -->
@@ -107,6 +108,9 @@ let klon = temp.cloneNode(true).content;
 	})
 
 }
+
+const btn = document.querySelector("#mobil_filtering")
+
 
 </script>
 
