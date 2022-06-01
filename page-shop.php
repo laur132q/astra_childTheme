@@ -8,12 +8,13 @@ get_header();
 <div id="primary" class="content-area">
 
  <main id="shop_main" class="site-main">
-
+<div id="den_skal_være_i_midten">
      <button id="mobil-filter-knap" >
 		 Filter
 		 <nav id="filter" class="vis_ikke" >
 	       <button data-flaske="alle" ></button>
         </nav>
+		</div>
 </button>
 
         
