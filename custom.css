@@ -1,3 +1,10 @@
+
+
+
+
+
+
+/* -------- SHOP---------- */
 #flaske {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
@@ -20,43 +27,39 @@ element.style:hover {
   padding: 1rem;
 }
 
+
+.vis_ikke {
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ----------------- RETTELESER DER ER SKET I WP----------- */
 #forside_styling #secondary {
-  display: none;
-}
-
-#forside_styling #primary {
-  width: 100%;
-}
-
-.ast-container,
-.ast-container-fluid {
-  padding-left: 0%;
-  padding-right: 0%;
-}
-
-
-
+    display: none;
+  }
+  
+  #forside_styling #primary {
+    width: 100%;
+  }
+  
+  .ast-container,
+  .ast-container-fluid {
+    padding-left: 0%;
+    padding-right: 0%;
+  }
+  
 .ast-separate-container .ast-article-post, .ast-separate-container .ast-article-single {
     padding: 0%;
-}
-
-/* .entry-content {
- 
-} */
-
-.entry-content .wp-block-columns {
-    /* max-width: 0%;
-    margin-left: 0%;
-    margin-right: 0%; */
-}
-/* -----------skal ske med media------------
-#shop_main {
-  display: flex;
-}
-
-#filter {
-  display: grid;
-} */
-
-.post-thumb-img-content {
 }
