@@ -40,14 +40,14 @@ element.style:hover {
     padding: 0%;
 }
 
-.entry-content[ast-blocks-layout] {
+.entry-content {
     max-width: 0%;
     margin-left: 0%;
     margin-right: 0%;
 }
 
 .entry-content .wp-block-columns {
-    
+
 }
 /* -----------skal ske med media------------
 #shop_main {
