@@ -1,9 +1,3 @@
-
-
-
-
-
-
 /* -------- SHOP---------- */
 #flaske {
   display: grid;
@@ -27,47 +21,51 @@ element.style:hover {
   padding: 1rem;
 }
 
-
 .vis_ikke {
-    display: none;
+  display: none;
+}
+
+#forside_styling #secondary {
+  display: none;
+}
+
+#forside_styling #primary {
+  width: 100%;
+}
+
+/* -----------skal ske med media------------
+#shop_main {
+  display: flex;
+>>>>>>> andrea
 }
 
 /* ---- Mobil filter design ------ */
 
 #filter {
-
 }
 
 #den_skal_være_i_midten {
-    display: flex;
-  
-    justify-content: center;
+  display: flex;
+
+  justify-content: center;
 }
-
-
-
-
-
-
-
-
-
 
 /* ----------------- RETTELESER DER ER SKET I WP----------- */
 #forside_styling #secondary {
-    display: none;
-  }
-  
-  #forside_styling #primary {
-    width: 100%;
-  }
-  
-  .ast-container,
-  .ast-container-fluid {
-    padding-left: 0%;
-    padding-right: 0%;
-  }
-  
-.ast-separate-container .ast-article-post, .ast-separate-container .ast-article-single {
-    padding: 0%;
+  display: none;
+}
+
+#forside_styling #primary {
+  width: 100%;
+}
+
+.ast-container,
+.ast-container-fluid {
+  padding-left: 0%;
+  padding-right: 0%;
+}
+
+.ast-separate-container .ast-article-post,
+.ast-separate-container .ast-article-single {
+  padding: 0%;
 }
