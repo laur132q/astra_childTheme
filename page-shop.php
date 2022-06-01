@@ -6,7 +6,7 @@
 get_header();
 ?>
 	<div id="primary" class="content-area">
-		<main id="main" class="site-main">
+		<main id="shop_main" class="site-main">
 <nav id="filter">
 	<button data-flaske="alle">Alle</button>
 </nav>
